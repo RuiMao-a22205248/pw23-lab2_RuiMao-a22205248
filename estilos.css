@@ -49,6 +49,10 @@ h1::first-letter{
     font-size: 17px;
 }
 
+a[target=_blank]{
+   background-color: none;
+}
+
  a:hover {
     background-color: #ddd;
   }
